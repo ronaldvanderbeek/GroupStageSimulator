@@ -1,0 +1,17 @@
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\bin\Debug\net8.0\GroupStageSimulator.Application.deps.json
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\bin\Debug\net8.0\GroupStageSimulator.Application.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\bin\Debug\net8.0\GroupStageSimulator.Application.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\bin\Debug\net8.0\GroupStageSimulator.Domain.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\bin\Debug\net8.0\GroupStageSimulator.Infrastructure.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\bin\Debug\net8.0\GroupStageSimulator.Domain.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\bin\Debug\net8.0\GroupStageSimulator.Infrastructure.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupStageSimulator.Application.csproj.AssemblyReference.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupStageSimulator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupStageSimulator.Application.AssemblyInfoInputs.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupStageSimulator.Application.AssemblyInfo.cs
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupStageSimulator.Application.csproj.CoreCompileInputs.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupSta.92AB3AE9.Up2Date
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupStageSimulator.Application.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\refint\GroupStageSimulator.Application.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\GroupStageSimulator.Application.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Application\obj\Debug\net8.0\ref\GroupStageSimulator.Application.dll

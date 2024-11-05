@@ -1,0 +1,11 @@
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\bin\Debug\net8.0\GroupStageSimulator.Domain.deps.json
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\bin\Debug\net8.0\GroupStageSimulator.Domain.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\bin\Debug\net8.0\GroupStageSimulator.Domain.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\GroupStageSimulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\GroupStageSimulator.Domain.AssemblyInfoInputs.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\GroupStageSimulator.Domain.AssemblyInfo.cs
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\GroupStageSimulator.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\GroupStageSimulator.Domain.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\refint\GroupStageSimulator.Domain.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\GroupStageSimulator.Domain.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Domain\obj\Debug\net8.0\ref\GroupStageSimulator.Domain.dll

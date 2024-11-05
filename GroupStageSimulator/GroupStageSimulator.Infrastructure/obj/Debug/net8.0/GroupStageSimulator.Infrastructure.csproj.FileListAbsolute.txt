@@ -1,0 +1,15 @@
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\bin\Debug\net8.0\GroupStageSimulator.Infrastructure.deps.json
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\bin\Debug\net8.0\GroupStageSimulator.Infrastructure.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\bin\Debug\net8.0\GroupStageSimulator.Infrastructure.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\bin\Debug\net8.0\GroupStageSimulator.Domain.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\bin\Debug\net8.0\GroupStageSimulator.Domain.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupStageSimulator.Infrastructure.csproj.AssemblyReference.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupStageSimulator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupStageSimulator.Infrastructure.AssemblyInfoInputs.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupStageSimulator.Infrastructure.AssemblyInfo.cs
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupStageSimulator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupSta.FA8D3D2C.Up2Date
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupStageSimulator.Infrastructure.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\refint\GroupStageSimulator.Infrastructure.dll
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\GroupStageSimulator.Infrastructure.pdb
+C:\Repos\GroupStageSimulator\GroupStageSimulator\GroupStageSimulator.Infrastructure\obj\Debug\net8.0\ref\GroupStageSimulator.Infrastructure.dll
