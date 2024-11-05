@@ -78,6 +78,8 @@ namespace GroupStageSimulator
                     team.GoalDifference.ToString().PadRight(ColWidth2) +
                     team.Points.ToString().PadRight(ColWidth2));
             }
+
+            Console.ReadLine();
         }
     }
 }
